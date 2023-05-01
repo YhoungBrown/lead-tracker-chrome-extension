@@ -1,0 +1,13 @@
+#input-el {
+    border: 1px solid #5f9341;
+    
+}
+
+#ul-el {
+    list-style: none;
+    padding-left: 0;
+}
+
+#ul-el a {
+    color: green;
+}

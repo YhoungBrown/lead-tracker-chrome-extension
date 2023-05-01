@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": 1.0,
+    "name": "Js chrome ext",
+    "action": {
+        "default_popup": "mychrome.html"
+    },
+
+    "permission": [
+        "tabs"
+    ]
+}
